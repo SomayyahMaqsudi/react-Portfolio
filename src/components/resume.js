@@ -1,7 +1,7 @@
 import React from "react";
-import resumePDF from "../assets/resume.pdf";
+import resumePDF from "../assets/resume.pdf"; //Have to add my resume
 
-const AboutMe = () => {
+const Resume = () => {
   return (
     <div className="container mt-5">
       <div className="row">
@@ -13,4 +13,4 @@ const AboutMe = () => {
   );
 };
 
-export default AboutMe;
+export default Resume;

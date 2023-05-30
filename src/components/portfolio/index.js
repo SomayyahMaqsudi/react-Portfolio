@@ -1,6 +1,6 @@
 import React from "react";
 
-const Projects = () => {
+const Portfolio = () => {
   return (
     <div className="container mt-5">
       <div className="card-group mt-3">
@@ -48,4 +48,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default Portfolio;
