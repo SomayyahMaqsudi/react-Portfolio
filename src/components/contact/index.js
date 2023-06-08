@@ -8,7 +8,7 @@ const ContactInfo = () => {
         <hr style={{ backgroundColor: "black" }} />
         <img
           style={{ height: "250px", paddingRight: "4px", paddingBottom: "3px" }}
-          src="C:\Users\somay\OneDrive\Desktop\Challenges\challenge-20\src\assets\images"
+          src=""
           alt="Somayyah Maqsudi"
         />
         <h4>
@@ -23,7 +23,7 @@ const ContactInfo = () => {
         <hr style={{ backgroundColor: "lightgray", width: "25%" }} />
         <h3>E-mail</h3>
         <hr style={{ backgroundColor: "black", width: "25%" }} />
-        <a href="mailto:somayyah1994@gmail.com">
+        <a href="somayyah1994@gmail.com">
           <i className="fa fa-envelope" /> your email address
         </a>
       </div>
